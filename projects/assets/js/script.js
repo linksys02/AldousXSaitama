@@ -204,7 +204,7 @@ let selectionPanel = document.querySelector('.selection');
 let backBtn = document.querySelector('.back');
 
 function backToMainPanel(){
-  window.location.href = "https://example.com";
+  window.location.href = "https://linksys02.github.io/Unlock_Link/";
 }
 
 // Download Zip function
